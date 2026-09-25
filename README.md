@@ -21,3 +21,7 @@ Dokumentasi Praktikum & Screenshot
 5.Set
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4407441b-dfbe-4d28-b0dc-617a8c631a99" />
 
+6.Map
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb30da69-26a4-42cb-adbf-c28f47b10d32" />
+
+
