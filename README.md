@@ -15,4 +15,6 @@ Dokumentasi Praktikum & Screenshot
 3.TIPE DATA DASAR
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06b0ef76-33a3-4e0d-a4e4-f90607262fa5" />
 
-4.
+4.List
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/debc60fc-9436-4500-95f0-ef68bcfa95a1" />
+
