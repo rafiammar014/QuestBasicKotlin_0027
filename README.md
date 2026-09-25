@@ -31,7 +31,13 @@ Dokumentasi Praktikum & Screenshot
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bd751fc9-31e7-494b-bb68-fc7c91460d6d" />
 
 8.For
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/640a6f51-481a-4684-82aa-4bf02c5d534a" />
+
+9.funtion
 ![Uploading image.png…]()
+
+10.
+
 
 
 
