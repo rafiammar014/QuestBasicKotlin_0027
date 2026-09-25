@@ -36,7 +36,9 @@ Dokumentasi Praktikum & Screenshot
 10.funtion
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5909c746-651e-4a60-91dc-bea0bb3d68bf" />
 
-11.
+11.Lambda expressions
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6eab6321-3644-4f47-82c8-bb3e1f9280e0" />
+
 
 
 
