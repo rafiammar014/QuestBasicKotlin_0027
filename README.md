@@ -27,5 +27,8 @@ Dokumentasi Praktikum & Screenshot
 7.If 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b3538e3-3ed1-488f-8866-d9e1030a7786" />
 
+8.When
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bd751fc9-31e7-494b-bb68-fc7c91460d6d" />
+
 
 
