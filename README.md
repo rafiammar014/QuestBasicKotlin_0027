@@ -39,6 +39,9 @@ Dokumentasi Praktikum & Screenshot
 11.Lambda expressions
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6eab6321-3644-4f47-82c8-bb3e1f9280e0" />
 
+12.Class
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b46d15e-8f12-4511-a5e0-87115ae04b1c" />
+
 
 
 
